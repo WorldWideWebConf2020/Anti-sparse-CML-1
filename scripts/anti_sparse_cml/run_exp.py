@@ -16,7 +16,7 @@ lambdas = np.logspace(-4, -1, 10)
 
 params = {}
 params['seed'] = 42
-params['n_epochs'] = 100
+params['n_epochs'] = 151
 params['n_negatives'] = 1
 params['batch_size'] = 512
 params['lr'] = 7.5e-4
